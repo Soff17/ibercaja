@@ -1,0 +1,9 @@
+{
+	"login": {
+		"title": "Bienvenido a {app}, introduce los datos solicitados",
+		"username": "Código de identificación",
+		"password": "Clave de acceso",
+		"forgot": "Olvidé mi contraseña",
+		"submit": "Entrar"
+	}
+}

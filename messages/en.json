@@ -1,0 +1,79 @@
+{
+	"login": {
+		"title": "Bienvenido a {app}, introduce los datos solicitados",
+		"username": "Código de identificación",
+		"password": "Clave de acceso",
+		"forgot": "Olvidé mi contraseña",
+		"submit": "Entrar",
+		"logout": "Cerrar sesión",
+		"myAccount": "Tu cuenta"
+	},
+	"alerts": {
+		"table": {
+			"columns": {
+				"id": "ID alerta",
+				"score": "Score",
+				"priority": "Prioridad",
+				"receivedAgo": "Recibida hace",
+				"status": "Estado",
+				"analyst": "Analista asignado",
+				"description": "Explicabilidad",
+				"actions": "Acciones"
+			},
+			"loadingText": "Cargando ...",
+			"tooltip": {
+				"edit": "Editar",
+				"view": "Ver Detalle",
+				"assignMe": "Asignarme",
+				"unbookmark": "Quitar de mis alertas",
+				"bookmark": "Agregar a mis alertas"
+			}
+		},
+		"tabs": {
+			"actives": "Alertas activas",
+			"pendingPayment": "Pendientes contacto",
+			"mySections": "Mis alertas",
+			"record": "Histórico"
+		}
+	},
+	"alertsDetails": {
+		"table": {
+			"columns": {
+				"deviceId": "ID del dispositivo",
+				"deviceCBF": "CBF del dispositivo",
+				"type": "Tipo de dispositivo",
+				"model": "Modelo",
+				"brand": "Marca",
+				"ip": "Dirección  IP",
+				"isp": "ISP",
+				"country": "IP país",
+				"tz": "Zona horaria",
+				"lang": "Idioma del dispositvo",
+				"alert": "Alertas"
+			},
+			"loadingText": "Cargando ...",
+			"tooltip": {
+				"edit": "Editar",
+				"view": "Ver Detalle",
+				"assignMe": "Asignarme"
+			}
+		}
+	},
+	"parameters": {
+		"table": {
+			"columns": {
+				"name": "Nombre",
+				"description": "Descripción",
+				"updatedAt": "Última modificación",
+				"status": "Estado",
+				"actions": "Acciones"
+			},
+			"loadingText": "Cargando ...",
+			"tooltip": {
+				"edit": "Editar",
+				"view": "Ver Detalle",
+				"delete": "Eliminar"
+			}
+		}
+	}
+}

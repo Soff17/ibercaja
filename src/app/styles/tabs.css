@@ -1,0 +1,26 @@
+.nav-underline .nav-link {
+	color: var(--Disabled-color);
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.nav-underline .nav-link.active {
+	box-shadow: 0px 6px 0px -3px var(--color-primary-500);
+	color: var(--Black-color);
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+.nav-underline .nav-link.active:hover {
+	box-shadow: 0px 6px 0px -3px var(--color-primary-500);
+	color: var(--Black-color);
+}
+
+.nav-underline .nav-link:hover {
+	border: none;
+	color: var(--color-primary-500);
+}
+
+.nav-underline .nav-link:focus-visible {
+	border: none;
+}
